@@ -45,7 +45,7 @@ $(document).ready(function ()
 
 	function gogogo()
 	{
-		document.title = "Dont mind the name of the website. Its just edited with repl.it k?";
+		document.title = "Monkey";
 		body.addClass("play");
 
 		$("#spinner").fadeOut(200);
